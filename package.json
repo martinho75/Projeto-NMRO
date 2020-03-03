@@ -1,0 +1,22 @@
+{
+  "name": "nmorp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martinho",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "crypto": "^1.0.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "express-validator": "^6.3.0",
+    "mongodb": "^3.4.1"
+  }
+}
